@@ -1,0 +1,33 @@
+ <data name="BagPickupReport" xml:space="preserve">
+    <value>Bag Pickup Report</value>
+  </data>
+  <data name="DaysFromDepToPU" xml:space="preserve">
+    <value>Days From Dep to PU</value>
+  </data>
+  <data name="DepositAmount" xml:space="preserve">
+    <value>Deposit Amount</value>
+  </data>
+  <data name="PickupAmt" xml:space="preserve">
+    <value>Pickup Amt</value>
+  </data>
+  <data name="PickupDate" xml:space="preserve">
+    <value>Pickup Date</value>
+  </data>
+  <data name="PickupService" xml:space="preserve">
+    <value>Pickup Service</value>
+  </data>
+  <data name="ReceiptNo2" xml:space="preserve">
+    <value>Receipt No</value>
+  </data>
+  <data name="TotalDeposits" xml:space="preserve">
+    <value>Total Deposits</value>
+  </data>
+  <data name="Deposits2" xml:space="preserve">
+    <value>DEPOSITS</value>
+  </data>
+  <data name="Pickups" xml:space="preserve">
+    <value>PICKUPS</value>
+  </data>
+  <data name="ProfitCenters2" xml:space="preserve">
+    <value>PROFIT CENTERS</value>
+  </data>
