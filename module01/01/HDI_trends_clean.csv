@@ -1,0 +1,1317 @@
+countryName;year;HDIValue;HDIRank
+Norway;1990;0.849;1
+Norway;2000;0.917;1
+Norway;2010;0.940;1
+Norway;2011;0.941;1
+Norway;2012;0.942;1
+Norway;2013;0.942;1
+Norway;2014;0.944;1
+Australia;1990;0.865;2
+Australia;2000;0.898;2
+Australia;2010;0.927;2
+Australia;2011;0.930;2
+Australia;2012;0.932;2
+Australia;2013;0.933;2
+Australia;2014;0.935;2
+Switzerland;1990;0.831;3
+Switzerland;2000;0.888;3
+Switzerland;2010;0.924;3
+Switzerland;2011;0.925;3
+Switzerland;2012;0.927;3
+Switzerland;2013;0.928;3
+Switzerland;2014;0.930;3
+Denmark;1990;0.799;4
+Denmark;2000;0.862;4
+Denmark;2010;0.908;4
+Denmark;2011;0.920;4
+Denmark;2012;0.921;4
+Denmark;2013;0.923;4
+Denmark;2014;0.923;4
+Netherlands;1990;0.829;5
+Netherlands;2000;0.877;5
+Netherlands;2010;0.909;5
+Netherlands;2011;0.919;5
+Netherlands;2012;0.920;5
+Netherlands;2013;0.920;5
+Netherlands;2014;0.922;5
+Germany;1990;0.801;6
+Germany;2000;0.855;6
+Germany;2010;0.906;6
+Germany;2011;0.911;6
+Germany;2012;0.915;6
+Germany;2013;0.915;6
+Germany;2014;0.916;6
+Ireland;1990;0.770;6
+Ireland;2000;0.861;6
+Ireland;2010;0.908;6
+Ireland;2011;0.909;6
+Ireland;2012;0.910;6
+Ireland;2013;0.912;6
+Ireland;2014;0.916;6
+United States;1990;0.859;8
+United States;2000;0.883;8
+United States;2010;0.909;8
+United States;2011;0.911;8
+United States;2012;0.912;8
+United States;2013;0.913;8
+United States;2014;0.915;8
+Canada;1990;0.849;9
+Canada;2000;0.867;9
+Canada;2010;0.903;9
+Canada;2011;0.909;9
+Canada;2012;0.910;9
+Canada;2013;0.912;9
+Canada;2014;0.913;9
+New Zealand;1990;0.820;9
+New Zealand;2000;0.874;9
+New Zealand;2010;0.905;9
+New Zealand;2011;0.907;9
+New Zealand;2012;0.909;9
+New Zealand;2013;0.911;9
+New Zealand;2014;0.913;9
+Singapore;1990;0.718;11
+Singapore;2000;0.819;11
+Singapore;2010;0.897;11
+Singapore;2011;0.903;11
+Singapore;2012;0.905;11
+Singapore;2013;0.909;11
+Singapore;2014;0.912;11
+Hong Kong, China (SAR);1990;0.781;12
+Hong Kong, China (SAR);2000;0.825;12
+Hong Kong, China (SAR);2010;0.898;12
+Hong Kong, China (SAR);2011;0.902;12
+Hong Kong, China (SAR);2012;0.906;12
+Hong Kong, China (SAR);2013;0.908;12
+Hong Kong, China (SAR);2014;0.910;12
+Liechtenstein;1990;..;13
+Liechtenstein;2000;..;13
+Liechtenstein;2010;0.902;13
+Liechtenstein;2011;0.903;13
+Liechtenstein;2012;0.906;13
+Liechtenstein;2013;0.907;13
+Liechtenstein;2014;0.908;13
+Sweden;1990;0.815;14
+Sweden;2000;0.897;14
+Sweden;2010;0.901;14
+Sweden;2011;0.903;14
+Sweden;2012;0.904;14
+Sweden;2013;0.905;14
+Sweden;2014;0.907;14
+United Kingdom;1990;0.773;14
+United Kingdom;2000;0.865;14
+United Kingdom;2010;0.906;14
+United Kingdom;2011;0.901;14
+United Kingdom;2012;0.901;14
+United Kingdom;2013;0.902;14
+United Kingdom;2014;0.907;14
+Iceland;1990;0.802;16
+Iceland;2000;0.859;16
+Iceland;2010;0.892;16
+Iceland;2011;0.896;16
+Iceland;2012;0.897;16
+Iceland;2013;0.899;16
+Iceland;2014;0.899;16
+Korea (Republic of);1990;0.731;17
+Korea (Republic of);2000;0.821;17
+Korea (Republic of);2010;0.886;17
+Korea (Republic of);2011;0.891;17
+Korea (Republic of);2012;0.893;17
+Korea (Republic of);2013;0.895;17
+Korea (Republic of);2014;0.898;17
+Israel;1990;0.785;18
+Israel;2000;0.850;18
+Israel;2010;0.883;18
+Israel;2011;0.888;18
+Israel;2012;0.890;18
+Israel;2013;0.893;18
+Israel;2014;0.894;18
+Luxembourg;1990;0.779;19
+Luxembourg;2000;0.851;19
+Luxembourg;2010;0.886;19
+Luxembourg;2011;0.888;19
+Luxembourg;2012;0.888;19
+Luxembourg;2013;0.890;19
+Luxembourg;2014;0.892;19
+Japan;1990;0.814;20
+Japan;2000;0.857;20
+Japan;2010;0.884;20
+Japan;2011;0.886;20
+Japan;2012;0.888;20
+Japan;2013;0.890;20
+Japan;2014;0.891;20
+Belgium;1990;0.806;21
+Belgium;2000;0.874;21
+Belgium;2010;0.883;21
+Belgium;2011;0.886;21
+Belgium;2012;0.889;21
+Belgium;2013;0.888;21
+Belgium;2014;0.890;21
+France;1990;0.779;22
+France;2000;0.848;22
+France;2010;0.881;22
+France;2011;0.884;22
+France;2012;0.886;22
+France;2013;0.887;22
+France;2014;0.888;22
+Austria;1990;0.794;23
+Austria;2000;0.836;23
+Austria;2010;0.879;23
+Austria;2011;0.881;23
+Austria;2012;0.884;23
+Austria;2013;0.884;23
+Austria;2014;0.885;23
+Finland;1990;0.783;24
+Finland;2000;0.857;24
+Finland;2010;0.878;24
+Finland;2011;0.881;24
+Finland;2012;0.882;24
+Finland;2013;0.882;24
+Finland;2014;0.883;24
+Slovenia;1990;0.766;25
+Slovenia;2000;0.824;25
+Slovenia;2010;0.876;25
+Slovenia;2011;0.877;25
+Slovenia;2012;0.878;25
+Slovenia;2013;0.878;25
+Slovenia;2014;0.880;25
+Spain;1990;0.756;26
+Spain;2000;0.827;26
+Spain;2010;0.867;26
+Spain;2011;0.870;26
+Spain;2012;0.874;26
+Spain;2013;0.874;26
+Spain;2014;0.876;26
+Italy;1990;0.766;27
+Italy;2000;0.829;27
+Italy;2010;0.869;27
+Italy;2011;0.873;27
+Italy;2012;0.872;27
+Italy;2013;0.873;27
+Italy;2014;0.873;27
+Czech Republic;1990;0.761;28
+Czech Republic;2000;0.821;28
+Czech Republic;2010;0.863;28
+Czech Republic;2011;0.866;28
+Czech Republic;2012;0.867;28
+Czech Republic;2013;0.868;28
+Czech Republic;2014;0.870;28
+Greece;1990;0.759;29
+Greece;2000;0.799;29
+Greece;2010;0.866;29
+Greece;2011;0.864;29
+Greece;2012;0.865;29
+Greece;2013;0.863;29
+Greece;2014;0.865;29
+Estonia;1990;0.726;30
+Estonia;2000;0.780;30
+Estonia;2010;0.838;30
+Estonia;2011;0.849;30
+Estonia;2012;0.855;30
+Estonia;2013;0.859;30
+Estonia;2014;0.861;30
+Brunei Darussalam;1990;0.782;31
+Brunei Darussalam;2000;0.819;31
+Brunei Darussalam;2010;0.843;31
+Brunei Darussalam;2011;0.847;31
+Brunei Darussalam;2012;0.852;31
+Brunei Darussalam;2013;0.852;31
+Brunei Darussalam;2014;0.856;31
+Cyprus;1990;0.733;32
+Cyprus;2000;0.800;32
+Cyprus;2010;0.848;32
+Cyprus;2011;0.852;32
+Cyprus;2012;0.852;32
+Cyprus;2013;0.850;32
+Cyprus;2014;0.850;32
+Qatar;1990;0.754;32
+Qatar;2000;0.809;32
+Qatar;2010;0.844;32
+Qatar;2011;0.841;32
+Qatar;2012;0.848;32
+Qatar;2013;0.849;32
+Qatar;2014;0.850;32
+Andorra;1990;..;34
+Andorra;2000;..;34
+Andorra;2010;0.823;34
+Andorra;2011;0.821;34
+Andorra;2012;0.844;34
+Andorra;2013;0.844;34
+Andorra;2014;0.845;34
+Slovakia;1990;0.738;35
+Slovakia;2000;0.763;35
+Slovakia;2010;0.827;35
+Slovakia;2011;0.832;35
+Slovakia;2012;0.836;35
+Slovakia;2013;0.839;35
+Slovakia;2014;0.844;35
+Poland;1990;0.713;36
+Poland;2000;0.786;36
+Poland;2010;0.829;36
+Poland;2011;0.833;36
+Poland;2012;0.838;36
+Poland;2013;0.840;36
+Poland;2014;0.843;36
+Lithuania;1990;0.730;37
+Lithuania;2000;0.754;37
+Lithuania;2010;0.827;37
+Lithuania;2011;0.831;37
+Lithuania;2012;0.833;37
+Lithuania;2013;0.837;37
+Lithuania;2014;0.839;37
+Malta;1990;0.729;37
+Malta;2000;0.766;37
+Malta;2010;0.824;37
+Malta;2011;0.822;37
+Malta;2012;0.830;37
+Malta;2013;0.837;37
+Malta;2014;0.839;37
+Saudi Arabia;1990;0.690;39
+Saudi Arabia;2000;0.744;39
+Saudi Arabia;2010;0.805;39
+Saudi Arabia;2011;0.816;39
+Saudi Arabia;2012;0.826;39
+Saudi Arabia;2013;0.836;39
+Saudi Arabia;2014;0.837;39
+Argentina;1990;0.705;40
+Argentina;2000;0.762;40
+Argentina;2010;0.811;40
+Argentina;2011;0.818;40
+Argentina;2012;0.831;40
+Argentina;2013;0.833;40
+Argentina;2014;0.836;40
+United Arab Emirates;1990;0.726;41
+United Arab Emirates;2000;0.797;41
+United Arab Emirates;2010;0.828;41
+United Arab Emirates;2011;0.829;41
+United Arab Emirates;2012;0.831;41
+United Arab Emirates;2013;0.833;41
+United Arab Emirates;2014;0.835;41
+Chile;1990;0.699;42
+Chile;2000;0.752;42
+Chile;2010;0.814;42
+Chile;2011;0.821;42
+Chile;2012;0.827;42
+Chile;2013;0.830;42
+Chile;2014;0.832;42
+Portugal;1990;0.710;43
+Portugal;2000;0.782;43
+Portugal;2010;0.819;43
+Portugal;2011;0.825;43
+Portugal;2012;0.827;43
+Portugal;2013;0.828;43
+Portugal;2014;0.830;43
+Hungary;1990;0.703;44
+Hungary;2000;0.769;44
+Hungary;2010;0.821;44
+Hungary;2011;0.823;44
+Hungary;2012;0.823;44
+Hungary;2013;0.825;44
+Hungary;2014;0.828;44
+Bahrain;1990;0.746;45
+Bahrain;2000;0.794;45
+Bahrain;2010;0.819;45
+Bahrain;2011;0.817;45
+Bahrain;2012;0.819;45
+Bahrain;2013;0.821;45
+Bahrain;2014;0.824;45
+Latvia;1990;0.692;46
+Latvia;2000;0.727;46
+Latvia;2010;0.811;46
+Latvia;2011;0.812;46
+Latvia;2012;0.813;46
+Latvia;2013;0.816;46
+Latvia;2014;0.819;46
+Croatia;1990;0.670;47
+Croatia;2000;0.749;47
+Croatia;2010;0.807;47
+Croatia;2011;0.814;47
+Croatia;2012;0.817;47
+Croatia;2013;0.817;47
+Croatia;2014;0.818;47
+Kuwait;1990;0.715;48
+Kuwait;2000;0.804;48
+Kuwait;2010;0.809;48
+Kuwait;2011;0.812;48
+Kuwait;2012;0.815;48
+Kuwait;2013;0.816;48
+Kuwait;2014;0.816;48
+Montenegro;1990;..;49
+Montenegro;2000;..;49
+Montenegro;2010;0.792;49
+Montenegro;2011;0.798;49
+Montenegro;2012;0.798;49
+Montenegro;2013;0.801;49
+Montenegro;2014;0.802;49
+Belarus;1990;..;50
+Belarus;2000;0.683;50
+Belarus;2010;0.786;50
+Belarus;2011;0.793;50
+Belarus;2012;0.796;50
+Belarus;2013;0.796;50
+Belarus;2014;0.798;50
+Russian Federation;1990;0.729;50
+Russian Federation;2000;0.717;50
+Russian Federation;2010;0.783;50
+Russian Federation;2011;0.790;50
+Russian Federation;2012;0.795;50
+Russian Federation;2013;0.797;50
+Russian Federation;2014;0.798;50
+Oman;1990;..;52
+Oman;2000;..;52
+Oman;2010;0.795;52
+Oman;2011;0.793;52
+Oman;2012;0.793;52
+Oman;2013;0.792;52
+Oman;2014;0.793;52
+Romania;1990;0.703;52
+Romania;2000;0.706;52
+Romania;2010;0.784;52
+Romania;2011;0.786;52
+Romania;2012;0.788;52
+Romania;2013;0.791;52
+Romania;2014;0.793;52
+Uruguay;1990;0.692;52
+Uruguay;2000;0.742;52
+Uruguay;2010;0.780;52
+Uruguay;2011;0.784;52
+Uruguay;2012;0.788;52
+Uruguay;2013;0.790;52
+Uruguay;2014;0.793;52
+Bahamas;1990;..;55
+Bahamas;2000;0.778;55
+Bahamas;2010;0.774;55
+Bahamas;2011;0.778;55
+Bahamas;2012;0.783;55
+Bahamas;2013;0.786;55
+Bahamas;2014;0.790;55
+Kazakhstan;1990;0.690;56
+Kazakhstan;2000;0.679;56
+Kazakhstan;2010;0.766;56
+Kazakhstan;2011;0.772;56
+Kazakhstan;2012;0.778;56
+Kazakhstan;2013;0.785;56
+Kazakhstan;2014;0.788;56
+Barbados;1990;0.716;57
+Barbados;2000;0.753;57
+Barbados;2010;0.780;57
+Barbados;2011;0.786;57
+Barbados;2012;0.793;57
+Barbados;2013;0.785;57
+Barbados;2014;0.785;57
+Antigua and Barbuda;1990;..;58
+Antigua and Barbuda;2000;..;58
+Antigua and Barbuda;2010;0.782;58
+Antigua and Barbuda;2011;0.778;58
+Antigua and Barbuda;2012;0.781;58
+Antigua and Barbuda;2013;0.781;58
+Antigua and Barbuda;2014;0.783;58
+Bulgaria;1990;0.695;59
+Bulgaria;2000;0.713;59
+Bulgaria;2010;0.773;59
+Bulgaria;2011;0.775;59
+Bulgaria;2012;0.778;59
+Bulgaria;2013;0.779;59
+Bulgaria;2014;0.782;59
+Palau;1990;..;60
+Palau;2000;0.743;60
+Palau;2010;0.767;60
+Palau;2011;0.770;60
+Palau;2012;0.775;60
+Palau;2013;0.775;60
+Palau;2014;0.780;60
+Panama;1990;0.656;60
+Panama;2000;0.714;60
+Panama;2010;0.761;60
+Panama;2011;0.759;60
+Panama;2012;0.772;60
+Panama;2013;0.777;60
+Panama;2014;0.780;60
+Malaysia;1990;0.641;62
+Malaysia;2000;0.723;62
+Malaysia;2010;0.769;62
+Malaysia;2011;0.772;62
+Malaysia;2012;0.774;62
+Malaysia;2013;0.777;62
+Malaysia;2014;0.779;62
+Mauritius;1990;0.619;63
+Mauritius;2000;0.674;63
+Mauritius;2010;0.756;63
+Mauritius;2011;0.762;63
+Mauritius;2012;0.772;63
+Mauritius;2013;0.775;63
+Mauritius;2014;0.777;63
+Seychelles;1990;..;64
+Seychelles;2000;0.715;64
+Seychelles;2010;0.743;64
+Seychelles;2011;0.752;64
+Seychelles;2012;0.761;64
+Seychelles;2013;0.767;64
+Seychelles;2014;0.772;64
+Trinidad and Tobago;1990;0.673;64
+Trinidad and Tobago;2000;0.717;64
+Trinidad and Tobago;2010;0.772;64
+Trinidad and Tobago;2011;0.767;64
+Trinidad and Tobago;2012;0.769;64
+Trinidad and Tobago;2013;0.771;64
+Trinidad and Tobago;2014;0.772;64
+Serbia;1990;0.714;66
+Serbia;2000;0.710;66
+Serbia;2010;0.757;66
+Serbia;2011;0.761;66
+Serbia;2012;0.762;66
+Serbia;2013;0.771;66
+Serbia;2014;0.771;66
+Cuba;1990;0.675;67
+Cuba;2000;0.685;67
+Cuba;2010;0.778;67
+Cuba;2011;0.776;67
+Cuba;2012;0.772;67
+Cuba;2013;0.768;67
+Cuba;2014;0.769;67
+Lebanon;1990;..;67
+Lebanon;2000;..;67
+Lebanon;2010;0.756;67
+Lebanon;2011;0.761;67
+Lebanon;2012;0.761;67
+Lebanon;2013;0.768;67
+Lebanon;2014;0.769;67
+Costa Rica;1990;0.652;69
+Costa Rica;2000;0.704;69
+Costa Rica;2010;0.750;69
+Costa Rica;2011;0.756;69
+Costa Rica;2012;0.761;69
+Costa Rica;2013;0.764;69
+Costa Rica;2014;0.766;69
+Iran (Islamic Republic of);1990;0.567;69
+Iran (Islamic Republic of);2000;0.665;69
+Iran (Islamic Republic of);2010;0.743;69
+Iran (Islamic Republic of);2011;0.751;69
+Iran (Islamic Republic of);2012;0.764;69
+Iran (Islamic Republic of);2013;0.764;69
+Iran (Islamic Republic of);2014;0.766;69
+Venezuela (Bolivarian Republic of);1990;0.635;71
+Venezuela (Bolivarian Republic of);2000;0.673;71
+Venezuela (Bolivarian Republic of);2010;0.757;71
+Venezuela (Bolivarian Republic of);2011;0.761;71
+Venezuela (Bolivarian Republic of);2012;0.764;71
+Venezuela (Bolivarian Republic of);2013;0.764;71
+Venezuela (Bolivarian Republic of);2014;0.762;71
+Turkey;1990;0.576;72
+Turkey;2000;0.653;72
+Turkey;2010;0.738;72
+Turkey;2011;0.751;72
+Turkey;2012;0.756;72
+Turkey;2013;0.759;72
+Turkey;2014;0.761;72
+Sri Lanka;1990;0.620;73
+Sri Lanka;2000;0.679;73
+Sri Lanka;2010;0.738;73
+Sri Lanka;2011;0.743;73
+Sri Lanka;2012;0.749;73
+Sri Lanka;2013;0.752;73
+Sri Lanka;2014;0.757;73
+Mexico;1990;0.648;74
+Mexico;2000;0.699;74
+Mexico;2010;0.746;74
+Mexico;2011;0.748;74
+Mexico;2012;0.754;74
+Mexico;2013;0.755;74
+Mexico;2014;0.756;74
+Brazil;1990;0.608;75
+Brazil;2000;0.683;75
+Brazil;2010;0.737;75
+Brazil;2011;0.742;75
+Brazil;2012;0.746;75
+Brazil;2013;0.752;75
+Brazil;2014;0.755;75
+Georgia;1990;..;76
+Georgia;2000;0.672;76
+Georgia;2010;0.735;76
+Georgia;2011;0.740;76
+Georgia;2012;0.747;76
+Georgia;2013;0.750;76
+Georgia;2014;0.754;76
+Saint Kitts and Nevis;1990;..;77
+Saint Kitts and Nevis;2000;..;77
+Saint Kitts and Nevis;2010;0.739;77
+Saint Kitts and Nevis;2011;0.741;77
+Saint Kitts and Nevis;2012;0.743;77
+Saint Kitts and Nevis;2013;0.747;77
+Saint Kitts and Nevis;2014;0.752;77
+Azerbaijan;1990;..;78
+Azerbaijan;2000;0.640;78
+Azerbaijan;2010;0.741;78
+Azerbaijan;2011;0.742;78
+Azerbaijan;2012;0.745;78
+Azerbaijan;2013;0.749;78
+Azerbaijan;2014;0.751;78
+Grenada;1990;..;79
+Grenada;2000;..;79
+Grenada;2010;0.737;79
+Grenada;2011;0.739;79
+Grenada;2012;0.740;79
+Grenada;2013;0.742;79
+Grenada;2014;0.750;79
+Jordan;1990;0.623;80
+Jordan;2000;0.705;80
+Jordan;2010;0.743;80
+Jordan;2011;0.743;80
+Jordan;2012;0.746;80
+Jordan;2013;0.748;80
+Jordan;2014;0.748;80
+The former Yugoslav Republic of Macedonia;1990;..;81
+The former Yugoslav Republic of Macedonia;2000;..;81
+The former Yugoslav Republic of Macedonia;2010;0.738;81
+The former Yugoslav Republic of Macedonia;2011;0.742;81
+The former Yugoslav Republic of Macedonia;2012;0.743;81
+The former Yugoslav Republic of Macedonia;2013;0.744;81
+The former Yugoslav Republic of Macedonia;2014;0.747;81
+Ukraine;1990;0.705;81
+Ukraine;2000;0.668;81
+Ukraine;2010;0.732;81
+Ukraine;2011;0.738;81
+Ukraine;2012;0.743;81
+Ukraine;2013;0.746;81
+Ukraine;2014;0.747;81
+Algeria;1990;0.574;83
+Algeria;2000;0.640;83
+Algeria;2010;0.725;83
+Algeria;2011;0.730;83
+Algeria;2012;0.732;83
+Algeria;2013;0.734;83
+Algeria;2014;0.736;83
+Peru;1990;0.613;84
+Peru;2000;0.677;84
+Peru;2010;0.718;84
+Peru;2011;0.722;84
+Peru;2012;0.728;84
+Peru;2013;0.732;84
+Peru;2014;0.734;84
+Albania;1990;0.624;85
+Albania;2000;0.656;85
+Albania;2010;0.722;85
+Albania;2011;0.728;85
+Albania;2012;0.729;85
+Albania;2013;0.732;85
+Albania;2014;0.733;85
+Armenia;1990;0.632;85
+Armenia;2000;0.648;85
+Armenia;2010;0.721;85
+Armenia;2011;0.723;85
+Armenia;2012;0.728;85
+Armenia;2013;0.731;85
+Armenia;2014;0.733;85
+Bosnia and Herzegovina;1990;..;85
+Bosnia and Herzegovina;2000;..;85
+Bosnia and Herzegovina;2010;0.710;85
+Bosnia and Herzegovina;2011;0.724;85
+Bosnia and Herzegovina;2012;0.726;85
+Bosnia and Herzegovina;2013;0.729;85
+Bosnia and Herzegovina;2014;0.733;85
+Ecuador;1990;0.645;88
+Ecuador;2000;0.674;88
+Ecuador;2010;0.717;88
+Ecuador;2011;0.723;88
+Ecuador;2012;0.727;88
+Ecuador;2013;0.730;88
+Ecuador;2014;0.732;88
+Saint Lucia;1990;..;89
+Saint Lucia;2000;0.683;89
+Saint Lucia;2010;0.730;89
+Saint Lucia;2011;0.730;89
+Saint Lucia;2012;0.730;89
+Saint Lucia;2013;0.729;89
+Saint Lucia;2014;0.729;89
+China;1990;0.501;90
+China;2000;0.588;90
+China;2010;0.699;90
+China;2011;0.707;90
+China;2012;0.718;90
+China;2013;0.723;90
+China;2014;0.727;90
+Fiji;1990;0.631;90
+Fiji;2000;0.678;90
+Fiji;2010;0.717;90
+Fiji;2011;0.720;90
+Fiji;2012;0.722;90
+Fiji;2013;0.724;90
+Fiji;2014;0.727;90
+Mongolia;1990;0.578;90
+Mongolia;2000;0.589;90
+Mongolia;2010;0.695;90
+Mongolia;2011;0.706;90
+Mongolia;2012;0.714;90
+Mongolia;2013;0.722;90
+Mongolia;2014;0.727;90
+Thailand;1990;0.572;93
+Thailand;2000;0.648;93
+Thailand;2010;0.716;93
+Thailand;2011;0.721;93
+Thailand;2012;0.723;93
+Thailand;2013;0.724;93
+Thailand;2014;0.726;93
+Dominica;1990;..;94
+Dominica;2000;0.694;94
+Dominica;2010;0.723;94
+Dominica;2011;0.723;94
+Dominica;2012;0.723;94
+Dominica;2013;0.723;94
+Dominica;2014;0.724;94
+Libya;1990;0.679;94
+Libya;2000;0.731;94
+Libya;2010;0.756;94
+Libya;2011;0.711;94
+Libya;2012;0.745;94
+Libya;2013;0.738;94
+Libya;2014;0.724;94
+Tunisia;1990;0.567;96
+Tunisia;2000;0.654;96
+Tunisia;2010;0.714;96
+Tunisia;2011;0.715;96
+Tunisia;2012;0.719;96
+Tunisia;2013;0.720;96
+Tunisia;2014;0.721;96
+Colombia;1990;0.596;97
+Colombia;2000;0.654;97
+Colombia;2010;0.706;97
+Colombia;2011;0.713;97
+Colombia;2012;0.715;97
+Colombia;2013;0.718;97
+Colombia;2014;0.720;97
+Saint Vincent and the Grenadines;1990;..;97
+Saint Vincent and the Grenadines;2000;0.674;97
+Saint Vincent and the Grenadines;2010;0.711;97
+Saint Vincent and the Grenadines;2011;0.713;97
+Saint Vincent and the Grenadines;2012;0.715;97
+Saint Vincent and the Grenadines;2013;0.717;97
+Saint Vincent and the Grenadines;2014;0.720;97
+Jamaica;1990;0.671;99
+Jamaica;2000;0.700;99
+Jamaica;2010;0.727;99
+Jamaica;2011;0.727;99
+Jamaica;2012;0.723;99
+Jamaica;2013;0.717;99
+Jamaica;2014;0.719;99
+Tonga;1990;0.650;100
+Tonga;2000;0.671;100
+Tonga;2010;0.713;100
+Tonga;2011;0.716;100
+Tonga;2012;0.717;100
+Tonga;2013;0.716;100
+Tonga;2014;0.717;100
+Belize;1990;0.644;101
+Belize;2000;0.683;101
+Belize;2010;0.709;101
+Belize;2011;0.711;101
+Belize;2012;0.716;101
+Belize;2013;0.715;101
+Belize;2014;0.715;101
+Dominican Republic;1990;0.596;101
+Dominican Republic;2000;0.655;101
+Dominican Republic;2010;0.701;101
+Dominican Republic;2011;0.704;101
+Dominican Republic;2012;0.708;101
+Dominican Republic;2013;0.711;101
+Dominican Republic;2014;0.715;101
+Suriname;1990;..;103
+Suriname;2000;..;103
+Suriname;2010;0.707;103
+Suriname;2011;0.709;103
+Suriname;2012;0.711;103
+Suriname;2013;0.713;103
+Suriname;2014;0.714;103
+Maldives;1990;..;104
+Maldives;2000;0.603;104
+Maldives;2010;0.683;104
+Maldives;2011;0.690;104
+Maldives;2012;0.695;104
+Maldives;2013;0.703;104
+Maldives;2014;0.706;104
+Samoa;1990;0.621;105
+Samoa;2000;0.649;105
+Samoa;2010;0.696;105
+Samoa;2011;0.698;105
+Samoa;2012;0.700;105
+Samoa;2013;0.701;105
+Samoa;2014;0.702;105
+Botswana;1990;0.584;106
+Botswana;2000;0.561;106
+Botswana;2010;0.681;106
+Botswana;2011;0.688;106
+Botswana;2012;0.691;106
+Botswana;2013;0.696;106
+Botswana;2014;0.698;106
+Moldova (Republic of);1990;0.652;107
+Moldova (Republic of);2000;0.597;107
+Moldova (Republic of);2010;0.672;107
+Moldova (Republic of);2011;0.679;107
+Moldova (Republic of);2012;0.683;107
+Moldova (Republic of);2013;0.690;107
+Moldova (Republic of);2014;0.693;107
+Egypt;1990;0.546;108
+Egypt;2000;0.622;108
+Egypt;2010;0.681;108
+Egypt;2011;0.682;108
+Egypt;2012;0.688;108
+Egypt;2013;0.689;108
+Egypt;2014;0.690;108
+Turkmenistan;1990;..;109
+Turkmenistan;2000;..;109
+Turkmenistan;2010;0.666;109
+Turkmenistan;2011;0.671;109
+Turkmenistan;2012;0.677;109
+Turkmenistan;2013;0.682;109
+Turkmenistan;2014;0.688;109
+Gabon;1990;0.620;110
+Gabon;2000;0.632;110
+Gabon;2010;0.663;110
+Gabon;2011;0.668;110
+Gabon;2012;0.673;110
+Gabon;2013;0.679;110
+Gabon;2014;0.684;110
+Indonesia;1990;0.531;110
+Indonesia;2000;0.606;110
+Indonesia;2010;0.665;110
+Indonesia;2011;0.671;110
+Indonesia;2012;0.678;110
+Indonesia;2013;0.681;110
+Indonesia;2014;0.684;110
+Paraguay;1990;0.579;112
+Paraguay;2000;0.623;112
+Paraguay;2010;0.668;112
+Paraguay;2011;0.671;112
+Paraguay;2012;0.669;112
+Paraguay;2013;0.677;112
+Paraguay;2014;0.679;112
+Palestine, State of;1990;..;113
+Palestine, State of;2000;..;113
+Palestine, State of;2010;0.670;113
+Palestine, State of;2011;0.675;113
+Palestine, State of;2012;0.685;113
+Palestine, State of;2013;0.679;113
+Palestine, State of;2014;0.677;113
+Uzbekistan;1990;..;114
+Uzbekistan;2000;0.594;114
+Uzbekistan;2010;0.655;114
+Uzbekistan;2011;0.661;114
+Uzbekistan;2012;0.668;114
+Uzbekistan;2013;0.672;114
+Uzbekistan;2014;0.675;114
+Philippines;1990;0.586;115
+Philippines;2000;0.623;115
+Philippines;2010;0.654;115
+Philippines;2011;0.653;115
+Philippines;2012;0.657;115
+Philippines;2013;0.664;115
+Philippines;2014;0.668;115
+El Salvador;1990;0.522;116
+El Salvador;2000;0.603;116
+El Salvador;2010;0.653;116
+El Salvador;2011;0.658;116
+El Salvador;2012;0.662;116
+El Salvador;2013;0.664;116
+El Salvador;2014;0.666;116
+South Africa;1990;0.621;116
+South Africa;2000;0.632;116
+South Africa;2010;0.643;116
+South Africa;2011;0.651;116
+South Africa;2012;0.659;116
+South Africa;2013;0.663;116
+South Africa;2014;0.666;116
+Viet Nam;1990;0.475;116
+Viet Nam;2000;0.575;116
+Viet Nam;2010;0.653;116
+Viet Nam;2011;0.657;116
+Viet Nam;2012;0.660;116
+Viet Nam;2013;0.663;116
+Viet Nam;2014;0.666;116
+Bolivia (Plurinational State of);1990;0.536;119
+Bolivia (Plurinational State of);2000;0.603;119
+Bolivia (Plurinational State of);2010;0.641;119
+Bolivia (Plurinational State of);2011;0.647;119
+Bolivia (Plurinational State of);2012;0.654;119
+Bolivia (Plurinational State of);2013;0.658;119
+Bolivia (Plurinational State of);2014;0.662;119
+Kyrgyzstan;1990;0.615;120
+Kyrgyzstan;2000;0.593;120
+Kyrgyzstan;2010;0.634;120
+Kyrgyzstan;2011;0.639;120
+Kyrgyzstan;2012;0.645;120
+Kyrgyzstan;2013;0.652;120
+Kyrgyzstan;2014;0.655;120
+Iraq;1990;0.572;121
+Iraq;2000;0.606;121
+Iraq;2010;0.645;121
+Iraq;2011;0.648;121
+Iraq;2012;0.654;121
+Iraq;2013;0.657;121
+Iraq;2014;0.654;121
+Cabo Verde;1990;..;122
+Cabo Verde;2000;0.572;122
+Cabo Verde;2010;0.629;122
+Cabo Verde;2011;0.637;122
+Cabo Verde;2012;0.639;122
+Cabo Verde;2013;0.643;122
+Cabo Verde;2014;0.646;122
+Micronesia (Federated States of);1990;..;123
+Micronesia (Federated States of);2000;0.603;123
+Micronesia (Federated States of);2010;0.638;123
+Micronesia (Federated States of);2011;0.640;123
+Micronesia (Federated States of);2012;0.641;123
+Micronesia (Federated States of);2013;0.639;123
+Micronesia (Federated States of);2014;0.640;123
+Guyana;1990;0.542;124
+Guyana;2000;0.602;124
+Guyana;2010;0.624;124
+Guyana;2011;0.630;124
+Guyana;2012;0.629;124
+Guyana;2013;0.634;124
+Guyana;2014;0.636;124
+Nicaragua;1990;0.495;125
+Nicaragua;2000;0.565;125
+Nicaragua;2010;0.619;125
+Nicaragua;2011;0.623;125
+Nicaragua;2012;0.625;125
+Nicaragua;2013;0.628;125
+Nicaragua;2014;0.631;125
+Morocco;1990;0.457;126
+Morocco;2000;0.528;126
+Morocco;2010;0.611;126
+Morocco;2011;0.621;126
+Morocco;2012;0.623;126
+Morocco;2013;0.626;126
+Morocco;2014;0.628;126
+Namibia;1990;0.578;126
+Namibia;2000;0.556;126
+Namibia;2010;0.610;126
+Namibia;2011;0.616;126
+Namibia;2012;0.620;126
+Namibia;2013;0.625;126
+Namibia;2014;0.628;126
+Guatemala;1990;0.483;128
+Guatemala;2000;0.552;128
+Guatemala;2010;0.611;128
+Guatemala;2011;0.617;128
+Guatemala;2012;0.624;128
+Guatemala;2013;0.626;128
+Guatemala;2014;0.627;128
+Tajikistan;1990;0.616;129
+Tajikistan;2000;0.535;129
+Tajikistan;2010;0.608;129
+Tajikistan;2011;0.612;129
+Tajikistan;2012;0.617;129
+Tajikistan;2013;0.621;129
+Tajikistan;2014;0.624;129
+India;1990;0.428;130
+India;2000;0.496;130
+India;2010;0.586;130
+India;2011;0.597;130
+India;2012;0.600;130
+India;2013;0.604;130
+India;2014;0.609;130
+Honduras;1990;0.507;131
+Honduras;2000;0.557;131
+Honduras;2010;0.610;131
+Honduras;2011;0.612;131
+Honduras;2012;0.607;131
+Honduras;2013;0.604;131
+Honduras;2014;0.606;131
+Bhutan;1990;..;132
+Bhutan;2000;..;132
+Bhutan;2010;0.573;132
+Bhutan;2011;0.582;132
+Bhutan;2012;0.589;132
+Bhutan;2013;0.595;132
+Bhutan;2014;0.605;132
+Timor-Leste;1990;..;133
+Timor-Leste;2000;0.468;133
+Timor-Leste;2010;0.600;133
+Timor-Leste;2011;0.611;133
+Timor-Leste;2012;0.604;133
+Timor-Leste;2013;0.601;133
+Timor-Leste;2014;0.595;133
+Syrian Arab Republic;1990;0.553;134
+Syrian Arab Republic;2000;0.586;134
+Syrian Arab Republic;2010;0.639;134
+Syrian Arab Republic;2011;0.635;134
+Syrian Arab Republic;2012;0.623;134
+Syrian Arab Republic;2013;0.608;134
+Syrian Arab Republic;2014;0.594;134
+Vanuatu;1990;..;134
+Vanuatu;2000;..;134
+Vanuatu;2010;0.589;134
+Vanuatu;2011;0.590;134
+Vanuatu;2012;0.590;134
+Vanuatu;2013;0.592;134
+Vanuatu;2014;0.594;134
+Congo;1990;0.534;136
+Congo;2000;0.489;136
+Congo;2010;0.554;136
+Congo;2011;0.560;136
+Congo;2012;0.575;136
+Congo;2013;0.582;136
+Congo;2014;0.591;136
+Kiribati;1990;..;137
+Kiribati;2000;..;137
+Kiribati;2010;0.588;137
+Kiribati;2011;0.585;137
+Kiribati;2012;0.587;137
+Kiribati;2013;0.588;137
+Kiribati;2014;0.590;137
+Equatorial Guinea;1990;..;138
+Equatorial Guinea;2000;0.526;138
+Equatorial Guinea;2010;0.591;138
+Equatorial Guinea;2011;0.590;138
+Equatorial Guinea;2012;0.584;138
+Equatorial Guinea;2013;0.584;138
+Equatorial Guinea;2014;0.587;138
+Zambia;1990;0.403;139
+Zambia;2000;0.433;139
+Zambia;2010;0.555;139
+Zambia;2011;0.565;139
+Zambia;2012;0.576;139
+Zambia;2013;0.580;139
+Zambia;2014;0.586;139
+Ghana;1990;0.456;140
+Ghana;2000;0.485;140
+Ghana;2010;0.554;140
+Ghana;2011;0.566;140
+Ghana;2012;0.572;140
+Ghana;2013;0.577;140
+Ghana;2014;0.579;140
+Lao People's Democratic Republic;1990;0.397;141
+Lao People's Democratic Republic;2000;0.462;141
+Lao People's Democratic Republic;2010;0.539;141
+Lao People's Democratic Republic;2011;0.552;141
+Lao People's Democratic Republic;2012;0.562;141
+Lao People's Democratic Republic;2013;0.570;141
+Lao People's Democratic Republic;2014;0.575;141
+Bangladesh;1990;0.386;142
+Bangladesh;2000;0.468;142
+Bangladesh;2010;0.546;142
+Bangladesh;2011;0.559;142
+Bangladesh;2012;0.563;142
+Bangladesh;2013;0.567;142
+Bangladesh;2014;0.570;142
+Cambodia;1990;0.364;143
+Cambodia;2000;0.419;143
+Cambodia;2010;0.536;143
+Cambodia;2011;0.541;143
+Cambodia;2012;0.546;143
+Cambodia;2013;0.550;143
+Cambodia;2014;0.555;143
+Sao Tome and Principe;1990;0.455;143
+Sao Tome and Principe;2000;0.491;143
+Sao Tome and Principe;2010;0.544;143
+Sao Tome and Principe;2011;0.548;143
+Sao Tome and Principe;2012;0.552;143
+Sao Tome and Principe;2013;0.553;143
+Sao Tome and Principe;2014;0.555;143
+Kenya;1990;0.473;145
+Kenya;2000;0.447;145
+Kenya;2010;0.529;145
+Kenya;2011;0.535;145
+Kenya;2012;0.539;145
+Kenya;2013;0.544;145
+Kenya;2014;0.548;145
+Nepal;1990;0.384;145
+Nepal;2000;0.451;145
+Nepal;2010;0.531;145
+Nepal;2011;0.536;145
+Nepal;2012;0.540;145
+Nepal;2013;0.543;145
+Nepal;2014;0.548;145
+Pakistan;1990;0.399;147
+Pakistan;2000;0.444;147
+Pakistan;2010;0.522;147
+Pakistan;2011;0.527;147
+Pakistan;2012;0.532;147
+Pakistan;2013;0.536;147
+Pakistan;2014;0.538;147
+Myanmar;1990;0.352;148
+Myanmar;2000;0.425;148
+Myanmar;2010;0.520;148
+Myanmar;2011;0.524;148
+Myanmar;2012;0.528;148
+Myanmar;2013;0.531;148
+Myanmar;2014;0.536;148
+Angola;1990;..;149
+Angola;2000;0.390;149
+Angola;2010;0.509;149
+Angola;2011;0.521;149
+Angola;2012;0.524;149
+Angola;2013;0.530;149
+Angola;2014;0.532;149
+Swaziland;1990;0.536;150
+Swaziland;2000;0.496;150
+Swaziland;2010;0.525;150
+Swaziland;2011;0.528;150
+Swaziland;2012;0.529;150
+Swaziland;2013;0.530;150
+Swaziland;2014;0.531;150
+Tanzania (United Republic of);1990;0.369;151
+Tanzania (United Republic of);2000;0.392;151
+Tanzania (United Republic of);2010;0.500;151
+Tanzania (United Republic of);2011;0.506;151
+Tanzania (United Republic of);2012;0.510;151
+Tanzania (United Republic of);2013;0.516;151
+Tanzania (United Republic of);2014;0.521;151
+Nigeria;1990;..;152
+Nigeria;2000;..;152
+Nigeria;2010;0.493;152
+Nigeria;2011;0.499;152
+Nigeria;2012;0.505;152
+Nigeria;2013;0.510;152
+Nigeria;2014;0.514;152
+Cameroon;1990;0.443;153
+Cameroon;2000;0.437;153
+Cameroon;2010;0.486;153
+Cameroon;2011;0.496;153
+Cameroon;2012;0.501;153
+Cameroon;2013;0.507;153
+Cameroon;2014;0.512;153
+Madagascar;1990;..;154
+Madagascar;2000;0.456;154
+Madagascar;2010;0.504;154
+Madagascar;2011;0.505;154
+Madagascar;2012;0.507;154
+Madagascar;2013;0.508;154
+Madagascar;2014;0.510;154
+Zimbabwe;1990;0.499;155
+Zimbabwe;2000;0.428;155
+Zimbabwe;2010;0.461;155
+Zimbabwe;2011;0.474;155
+Zimbabwe;2012;0.491;155
+Zimbabwe;2013;0.501;155
+Zimbabwe;2014;0.509;155
+Mauritania;1990;0.373;156
+Mauritania;2000;0.442;156
+Mauritania;2010;0.488;156
+Mauritania;2011;0.489;156
+Mauritania;2012;0.498;156
+Mauritania;2013;0.504;156
+Mauritania;2014;0.506;156
+Solomon Islands;1990;..;156
+Solomon Islands;2000;0.446;156
+Solomon Islands;2010;0.494;156
+Solomon Islands;2011;0.501;156
+Solomon Islands;2012;0.504;156
+Solomon Islands;2013;0.505;156
+Solomon Islands;2014;0.506;156
+Papua New Guinea;1990;0.353;158
+Papua New Guinea;2000;0.424;158
+Papua New Guinea;2010;0.493;158
+Papua New Guinea;2011;0.497;158
+Papua New Guinea;2012;0.501;158
+Papua New Guinea;2013;0.503;158
+Papua New Guinea;2014;0.505;158
+Comoros;1990;..;159
+Comoros;2000;..;159
+Comoros;2010;0.488;159
+Comoros;2011;0.493;159
+Comoros;2012;0.499;159
+Comoros;2013;0.501;159
+Comoros;2014;0.503;159
+Yemen;1990;0.400;160
+Yemen;2000;0.441;160
+Yemen;2010;0.496;160
+Yemen;2011;0.495;160
+Yemen;2012;0.496;160
+Yemen;2013;0.498;160
+Yemen;2014;0.498;160
+Lesotho;1990;0.493;161
+Lesotho;2000;0.443;161
+Lesotho;2010;0.472;161
+Lesotho;2011;0.480;161
+Lesotho;2012;0.484;161
+Lesotho;2013;0.494;161
+Lesotho;2014;0.497;161
+Togo;1990;0.404;162
+Togo;2000;0.426;162
+Togo;2010;0.459;162
+Togo;2011;0.468;162
+Togo;2012;0.470;162
+Togo;2013;0.473;162
+Togo;2014;0.484;162
+Haiti;1990;0.417;163
+Haiti;2000;0.442;163
+Haiti;2010;0.471;163
+Haiti;2011;0.475;163
+Haiti;2012;0.479;163
+Haiti;2013;0.481;163
+Haiti;2014;0.483;163
+Rwanda;1990;0.244;163
+Rwanda;2000;0.333;163
+Rwanda;2010;0.453;163
+Rwanda;2011;0.464;163
+Rwanda;2012;0.476;163
+Rwanda;2013;0.479;163
+Rwanda;2014;0.483;163
+Uganda;1990;0.308;163
+Uganda;2000;0.393;163
+Uganda;2010;0.473;163
+Uganda;2011;0.473;163
+Uganda;2012;0.476;163
+Uganda;2013;0.478;163
+Uganda;2014;0.483;163
+Benin;1990;0.344;166
+Benin;2000;0.392;166
+Benin;2010;0.468;166
+Benin;2011;0.473;166
+Benin;2012;0.475;166
+Benin;2013;0.477;166
+Benin;2014;0.480;166
+Sudan;1990;0.331;167
+Sudan;2000;0.400;167
+Sudan;2010;0.465;167
+Sudan;2011;0.466;167
+Sudan;2012;0.476;167
+Sudan;2013;0.477;167
+Sudan;2014;0.479;167
+Djibouti;1990;..;168
+Djibouti;2000;0.365;168
+Djibouti;2010;0.453;168
+Djibouti;2011;0.462;168
+Djibouti;2012;0.465;168
+Djibouti;2013;0.468;168
+Djibouti;2014;0.470;168
+South Sudan;1990;..;169
+South Sudan;2000;..;169
+South Sudan;2010;0.470;169
+South Sudan;2011;0.458;169
+South Sudan;2012;0.457;169
+South Sudan;2013;0.461;169
+South Sudan;2014;0.467;169
+Senegal;1990;0.367;170
+Senegal;2000;0.380;170
+Senegal;2010;0.456;170
+Senegal;2011;0.458;170
+Senegal;2012;0.461;170
+Senegal;2013;0.463;170
+Senegal;2014;0.466;170
+Afghanistan;1990;0.297;171
+Afghanistan;2000;0.334;171
+Afghanistan;2010;0.448;171
+Afghanistan;2011;0.456;171
+Afghanistan;2012;0.463;171
+Afghanistan;2013;0.464;171
+Afghanistan;2014;0.465;171
+C?te d'Ivoire;1990;0.389;172
+C?te d'Ivoire;2000;0.398;172
+C?te d'Ivoire;2010;0.444;172
+C?te d'Ivoire;2011;0.445;172
+C?te d'Ivoire;2012;0.452;172
+C?te d'Ivoire;2013;0.458;172
+C?te d'Ivoire;2014;0.462;172
+Malawi;1990;0.284;173
+Malawi;2000;0.340;173
+Malawi;2010;0.420;173
+Malawi;2011;0.429;173
+Malawi;2012;0.433;173
+Malawi;2013;0.439;173
+Malawi;2014;0.445;173
+Ethiopia;1990;..;174
+Ethiopia;2000;0.284;174
+Ethiopia;2010;0.412;174
+Ethiopia;2011;0.423;174
+Ethiopia;2012;0.429;174
+Ethiopia;2013;0.436;174
+Ethiopia;2014;0.442;174
+Gambia;1990;0.330;175
+Gambia;2000;0.384;175
+Gambia;2010;0.441;175
+Gambia;2011;0.437;175
+Gambia;2012;0.440;175
+Gambia;2013;0.442;175
+Gambia;2014;0.441;175
+Congo (Democratic Republic of the);1990;0.355;176
+Congo (Democratic Republic of the);2000;0.329;176
+Congo (Democratic Republic of the);2010;0.408;176
+Congo (Democratic Republic of the);2011;0.418;176
+Congo (Democratic Republic of the);2012;0.423;176
+Congo (Democratic Republic of the);2013;0.430;176
+Congo (Democratic Republic of the);2014;0.433;176
+Liberia;1990;..;177
+Liberia;2000;0.359;177
+Liberia;2010;0.405;177
+Liberia;2011;0.414;177
+Liberia;2012;0.419;177
+Liberia;2013;0.424;177
+Liberia;2014;0.430;177
+Guinea-Bissau;1990;..;178
+Guinea-Bissau;2000;..;178
+Guinea-Bissau;2010;0.413;178
+Guinea-Bissau;2011;0.417;178
+Guinea-Bissau;2012;0.417;178
+Guinea-Bissau;2013;0.418;178
+Guinea-Bissau;2014;0.420;178
+Mali;1990;0.233;179
+Mali;2000;0.313;179
+Mali;2010;0.409;179
+Mali;2011;0.415;179
+Mali;2012;0.414;179
+Mali;2013;0.416;179
+Mali;2014;0.419;179
+Mozambique;1990;0.218;180
+Mozambique;2000;0.300;180
+Mozambique;2010;0.401;180
+Mozambique;2011;0.405;180
+Mozambique;2012;0.408;180
+Mozambique;2013;0.413;180
+Mozambique;2014;0.416;180
+Sierra Leone;1990;0.262;181
+Sierra Leone;2000;0.299;181
+Sierra Leone;2010;0.388;181
+Sierra Leone;2011;0.394;181
+Sierra Leone;2012;0.397;181
+Sierra Leone;2013;0.408;181
+Sierra Leone;2014;0.413;181
+Guinea;1990;..;182
+Guinea;2000;0.323;182
+Guinea;2010;0.388;182
+Guinea;2011;0.399;182
+Guinea;2012;0.409;182
+Guinea;2013;0.411;182
+Guinea;2014;0.411;182
+Burkina Faso;1990;..;183
+Burkina Faso;2000;..;183
+Burkina Faso;2010;0.378;183
+Burkina Faso;2011;0.385;183
+Burkina Faso;2012;0.393;183
+Burkina Faso;2013;0.396;183
+Burkina Faso;2014;0.402;183
+Burundi;1990;0.295;184
+Burundi;2000;0.301;184
+Burundi;2010;0.390;184
+Burundi;2011;0.392;184
+Burundi;2012;0.395;184
+Burundi;2013;0.397;184
+Burundi;2014;0.400;184
+Chad;1990;..;185
+Chad;2000;0.332;185
+Chad;2010;0.371;185
+Chad;2011;0.382;185
+Chad;2012;0.386;185
+Chad;2013;0.388;185
+Chad;2014;0.392;185
+Eritrea;1990;..;186
+Eritrea;2000;..;186
+Eritrea;2010;0.381;186
+Eritrea;2011;0.386;186
+Eritrea;2012;0.390;186
+Eritrea;2013;0.390;186
+Eritrea;2014;0.391;186
+Central African Republic;1990;0.314;187
+Central African Republic;2000;0.310;187
+Central African Republic;2010;0.362;187
+Central African Republic;2011;0.368;187
+Central African Republic;2012;0.373;187
+Central African Republic;2013;0.348;187
+Central African Republic;2014;0.350;187
+Niger;1990;0.214;188
+Niger;2000;0.257;188
+Niger;2010;0.326;188
+Niger;2011;0.333;188
+Niger;2012;0.342;188
+Niger;2013;0.345;188
+Niger;2014;0.348;188
